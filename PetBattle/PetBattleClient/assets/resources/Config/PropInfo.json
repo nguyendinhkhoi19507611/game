@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1001,
+        "name": "Cơm Hộp Thường",
+        "rarity": "R",
+        "classify": "Tiêu Hao",
+        "introduce": "Cơm hộp sử dụng tiện lợi.\nTác dụng: EXP Thú Cưng +100."
+    },
+    {
+        "id": 1002,
+        "name": "Cơm Hộp Cao Cấp",
+        "rarity": "SR",
+        "classify": "Tiêu Hao",
+        "introduce": "Cơm hộp sử dụng tiện lợi.\nTác dụng: EXP Thú Cưng +1000."
+    },
+    {
+        "id": 1003,
+        "name": "Cơm Hộp Hạng Sang",
+        "rarity": "SSR",
+        "classify": "Tiêu Hao",
+        "introduce": "Cơm hộp sử dụng tiện lợi.\nTác dụng: EXP Thú Cưng +10000."
+    },
+    {
+        "id": 1004,
+        "name": "Cơm Hộp Đặc Biệt",
+        "rarity": "SP",
+        "classify": "Tiêu Hao",
+        "introduce": "Cơm hộp sử dụng tiện lợi.\nTác dụng: EXP Thú Cưng +100000."
+    },
+    {
+        "id": 1011,
+        "name": "Đá Linh Long",
+        "rarity": "SSR",
+        "classify": "Nguyên Liệu",
+        "introduce": "Đá quý hiếm từ núi Mã Yên.\nTác dụng: Nâng cấp huyết thống thú cưng."
+    },
+    {
+        "id": 1021,
+        "name": "Đá Đột Phá",
+        "rarity": "SSR",
+        "classify": "Nguyên Liệu",
+        "introduce": "Thiên thạch chứa năng lượng thần bí.\nTác dụng: Đột phá thú cưng."
+    },
+    {
+        "id": 2001,
+        "name": "Đá Cường Hóa",
+        "rarity": "R",
+        "classify": "Nguyên Liệu",
+        "introduce": "Vật liệu rèn quý giá.\nTác dụng: Cường hóa trang bị."
+    },
+    {
+        "id": 2002,
+        "name": "Đá Cường Hóa",
+        "rarity": "R",
+        "classify": "Nguyên Liệu",
+        "introduce": "Vật liệu rèn quý giá.\nTác dụng: Cường hóa trang bị."
+    },
+    {
+        "id": 2003,
+        "name": "Đá Cường Hóa",
+        "rarity": "R",
+        "classify": "Nguyên Liệu",
+        "introduce": "Vật liệu rèn quý giá.\nTác dụng: Cường hóa trang bị."
+    },
+    {
+        "id": 2011,
+        "name": "Đá Cường Hóa",
+        "rarity": "SR",
+        "classify": "Nguyên Liệu",
+        "introduce": "Vật liệu rèn quý giá.\nTác dụng: Cường hóa trang bị."
+    },
+    {
+        "id": 2012,
+        "name": "Đá Cường Hóa",
+        "rarity": "SR",
+        "classify": "Nguyên Liệu",
+        "introduce": "Vật liệu rèn quý giá.\nTác dụng: Cường hóa trang bị."
+    },
+    {
+        "id": 2013,
+        "name": "Đá Cường Hóa",
+        "rarity": "SR",
+        "classify": "Nguyên Liệu",
+        "introduce": "Vật liệu rèn quý giá.\nTác dụng: Cường hóa trang bị."
+    },
+    {
+        "id": 2021,
+        "name": "Đá Cường Hóa",
+        "rarity": "SSR",
+        "classify": "Nguyên Liệu",
+        "introduce": "Vật liệu rèn quý giá.\nTác dụng: Cường hóa trang bị."
+    },
+    {
+        "id": 2022,
+        "name": "Đá Cường Hóa",
+        "rarity": "SSR",
+        "classify": "Nguyên Liệu",
+        "introduce": "Vật liệu rèn quý giá.\nTác dụng: Cường hóa trang bị."
+    },
+    {
+        "id": 2023,
+        "name": "Đá Cường Hóa",
+        "rarity": "SSR",
+        "classify": "Nguyên Liệu",
+        "introduce": "Vật liệu rèn quý giá.\nTác dụng: Cường hóa trang bị."
+    },
+    {
+        "id": 2031,
+        "name": "Mảnh Tinh Ngân",
+        "rarity": "R",
+        "classify": "Nguyên Liệu",
+        "introduce": "Mảnh vỡ từ thế giới khác.\nTác dụng: Nâng cấp sao trang bị."
+    },
+    {
+        "id": 2032,
+        "name": "Mảnh Tinh Ngân",
+        "rarity": "SR",
+        "classify": "Nguyên Liệu",
+        "introduce": "Mảnh vỡ từ thế giới khác.\nTác dụng: Nâng cấp sao trang bị."
+    },
+    {
+        "id": 2033,
+        "name": "Mảnh Tinh Ngân",
+        "rarity": "SSR",
+        "classify": "Nguyên Liệu",
+        "introduce": "Mảnh vỡ từ thế giới khác.\nTác dụng: Nâng cấp sao trang bị."
+    },
+    {
+        "id": 2041,
+        "name": "Thuốc Dung Giải",
+        "rarity": "SSR",
+        "classify": "Tiêu Hao",
+        "introduce": "Dung môi mạnh mẽ.\nTác dụng: Tẩy luyện thuộc tính trang bị."
+    },
+    {
+        "id": 2042,
+        "name": "Thuốc Tái Tạo",
+        "rarity": "SSR",
+        "classify": "Tiêu Hao",
+        "introduce": "Chất tạo hình mạnh mẽ.\nTác dụng: Tẩy luyện thuộc tính trang bị."
+    }
+]

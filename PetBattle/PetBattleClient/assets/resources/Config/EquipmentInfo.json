@@ -1,0 +1,110 @@
+[
+    {
+        "id": 3001,
+        "name": "Kính Hộ Mệnh Thường",
+        "rarity": "R",
+        "introduce": "Kính hộ mệnh là một bộ lọc quang học có khả năng thay đổi cường độ và quang phổ của ánh sáng truyền qua."
+    },
+    {
+        "id": 3002,
+        "name": "Kính Hộ Mệnh Cao Cấp",
+        "rarity": "SR",
+        "introduce": "Kính hộ mệnh là một bộ lọc quang học có khả năng thay đổi cường độ và quang phổ của ánh sáng truyền qua."
+    },
+    {
+        "id": 3003,
+        "name": "Kính Hộ Mệnh Đặc Biệt",
+        "rarity": "SSR",
+        "introduce": "Kính hộ mệnh là một bộ lọc quang học có khả năng thay đổi cường độ và quang phổ của ánh sáng truyền qua."
+    },
+    {
+        "id": 3011,
+        "name": "Vòng Tay Thường",
+        "rarity": "R",
+        "introduce": "Vòng tay là đồ trang sức hình tròn làm bằng vàng, bạc, ngọc bích, v.v., đeo trên cổ tay."
+    },
+    {
+        "id": 3012,
+        "name": "Vòng Tay Cao Cấp",
+        "rarity": "SR",
+        "introduce": "Vòng tay là đồ trang sức hình tròn làm bằng vàng, bạc, ngọc bích, v.v., đeo trên cổ tay."
+    },
+    {
+        "id": 3013,
+        "name": "Vòng Tay Đặc Biệt",
+        "rarity": "SSR",
+        "introduce": "Vòng tay là đồ trang sức hình tròn làm bằng vàng, bạc, ngọc bích, v.v., đeo trên cổ tay."
+    },
+    {
+        "id": 3021,
+        "name": "Mũ Thường",
+        "rarity": "R",
+        "introduce": "Mũ là đồ trang trí đeo trên đầu."
+    },
+    {
+        "id": 3022,
+        "name": "Mũ Cao Cấp",
+        "rarity": "SR",
+        "introduce": "Mũ là đồ trang trí đeo trên đầu."
+    },
+    {
+        "id": 3023,
+        "name": "Mũ Đặc Biệt",
+        "rarity": "SSR",
+        "introduce": "Mũ là đồ trang trí đeo trên đầu."
+    },
+    {
+        "id": 3031,
+        "name": "Dây Chuyền Thường",
+        "rarity": "R",
+        "introduce": "Dây chuyền là đồ trang sức hình sợi xích đeo trên cổ."
+    },
+    {
+        "id": 3032,
+        "name": "Dây Chuyền Cao Cấp",
+        "rarity": "SR",
+        "introduce": "Dây chuyền là đồ trang sức hình sợi xích đeo trên cổ."
+    },
+    {
+        "id": 3033,
+        "name": "Dây Chuyền Đặc Biệt",
+        "rarity": "SSR",
+        "introduce": "Dây chuyền là đồ trang sức hình sợi xích đeo trên cổ."
+    },
+    {
+        "id": 3041,
+        "name": "Nanh Thường",
+        "rarity": "R",
+        "introduce": "Nanh thú là đồ trang sức tấn công mạnh mẽ."
+    },
+    {
+        "id": 3042,
+        "name": "Nanh Cao Cấp",
+        "rarity": "SR",
+        "introduce": "Nanh thú là đồ trang sức tấn công mạnh mẽ."
+    },
+    {
+        "id": 3043,
+        "name": "Nanh Đặc Biệt",
+        "rarity": "SSR",
+        "introduce": "Nanh thú là đồ trang sức tấn công mạnh mẽ."
+    },
+    {
+        "id": 3051,
+        "name": "Đá Tinh Tú Thường",
+        "rarity": "R",
+        "introduce": "Đá tinh tú là đồ trang sức phòng thủ mạnh mẽ."
+    },
+    {
+        "id": 3052,
+        "name": "Đá Tinh Tú Cao Cấp",
+        "rarity": "SR",
+        "introduce": "Đá tinh tú là đồ trang sức phòng thủ mạnh mẽ."
+    },
+    {
+        "id": 3053,
+        "name": "Đá Tinh Tú Đặc Biệt",
+        "rarity": "SSR",
+        "introduce": "Đá tinh tú là đồ trang sức phòng thủ mạnh mẽ."
+    }
+]

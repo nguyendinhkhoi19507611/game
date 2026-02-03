@@ -1,0 +1,365 @@
+[
+    {
+        "id": 6004,
+        "name": "Tiểu Hỏa Long",
+        "rarity": "R",
+        "department": "Siêu Năng",
+        "status": {
+            "hp": 960,
+            "attack": 162,
+            "defend": 68,
+            "speed": 112,
+            "critRate": 10,
+            "critHurt": 150,
+            "hit": 0,
+            "resist": 0
+        },
+        "skills": [
+            {
+                "name": "Kỹ năng (Đang lên kế hoạch)",
+                "explain": "Mô tả kỹ năng (Đang lên kế hoạch)",
+                "energy": 0
+            },
+            {
+                "name": "Kỹ năng (Đang lên kế hoạch)",
+                "explain": "Mô tả kỹ năng (Đang lên kế hoạch)",
+                "energy": 3
+            },
+            {
+                "name": "Kỹ năng (Đang lên kế hoạch)",
+                "explain": "Mô tả kỹ năng (Đang lên kế hoạch)",
+                "energy": 0
+            }
+        ]
+    },
+    {
+        "id": 6005,
+        "name": "Hỏa Khủng Long",
+        "rarity": "SR",
+        "department": "Siêu Năng",
+        "status": {
+            "hp": 960,
+            "attack": 162,
+            "defend": 68,
+            "speed": 112,
+            "critRate": 10,
+            "critHurt": 150,
+            "hit": 0,
+            "resist": 0
+        },
+        "skills": [
+            {
+                "name": "Kỹ năng (Đang lên kế hoạch)",
+                "explain": "Mô tả kỹ năng (Đang lên kế hoạch)",
+                "energy": 0
+            },
+            {
+                "name": "Kỹ năng (Đang lên kế hoạch)",
+                "explain": "Mô tả kỹ năng (Đang lên kế hoạch)",
+                "energy": 3
+            },
+            {
+                "name": "Kỹ năng (Đang lên kế hoạch)",
+                "explain": "Mô tả kỹ năng (Đang lên kế hoạch)",
+                "energy": 0
+            }
+        ]
+    },
+    {
+        "id": 6006,
+        "name": "Phun Hỏa Long",
+        "rarity": "SSR",
+        "department": "Siêu Năng",
+        "status": {
+            "hp": 960,
+            "attack": 162,
+            "defend": 68,
+            "speed": 112,
+            "critRate": 10,
+            "critHurt": 150,
+            "hit": 0,
+            "resist": 0
+        },
+        "skills": [
+            {
+                "name": "Kỹ năng (Đang lên kế hoạch)",
+                "explain": "Mô tả kỹ năng (Đang lên kế hoạch)",
+                "energy": 0
+            },
+            {
+                "name": "Kỹ năng (Đang lên kế hoạch)",
+                "explain": "Mô tả kỹ năng (Đang lên kế hoạch)",
+                "energy": 3
+            },
+            {
+                "name": "Kỹ năng (Đang lên kế hoạch)",
+                "explain": "Mô tả kỹ năng (Đang lên kế hoạch)",
+                "energy": 0
+            }
+        ]
+    },
+    {
+        "id": 6017,
+        "name": "Lôi Khâu",
+        "rarity": "SSR",
+        "department": "Siêu Năng",
+        "status": {
+            "hp": 960,
+            "attack": 162,
+            "defend": 68,
+            "speed": 112,
+            "critRate": 10,
+            "critHurt": 150,
+            "hit": 0,
+            "resist": 0
+        },
+        "skills": [
+            {
+                "name": "Kỹ năng (Đang lên kế hoạch)",
+                "explain": "Mô tả kỹ năng (Đang lên kế hoạch)",
+                "energy": 0
+            },
+            {
+                "name": "Kỹ năng (Đang lên kế hoạch)",
+                "explain": "Mô tả kỹ năng (Đang lên kế hoạch)",
+                "energy": 3
+            },
+            {
+                "name": "Kỹ năng (Đang lên kế hoạch)",
+                "explain": "Mô tả kỹ năng (Đang lên kế hoạch)",
+                "energy": 0
+            }
+        ]
+    },
+    {
+        "id": 6095,
+        "name": "Siêu Mộng",
+        "rarity": "SP",
+        "department": "Siêu Năng",
+        "status": {
+            "hp": 960,
+            "attack": 162,
+            "defend": 68,
+            "speed": 112,
+            "critRate": 10,
+            "critHurt": 150,
+            "hit": 0,
+            "resist": 0
+        },
+        "skills": [
+            {
+                "name": "Ảo Ảnh Kích (Đánh thường)",
+                "explain": "Sử dụng thân pháp tấn công kẻ thù, gây 100% sát thương.",
+                "energy": 0
+            },
+            {
+                "name": "Vạn Tượng Rừng Rậm (Tuyệt Kỹ)",
+                "explain": "Tụ năng lượng tạo thành quả cầu siêu năng nén lại, ném về phía kẻ thù, gây 263% sát thương cho một mục tiêu. Nếu mục tiêu bị hạ gục, sát thương dư thừa sẽ lan sang các mục tiêu còn lại.",
+                "energy": 3
+            },
+            {
+                "name": "Mắt Tương Lai (Bị động)",
+                "explain": "Khi tung Tuyệt Kỹ, có 30% xác suất kích hoạt bùng nổ tiềm năng.",
+                "energy": 0
+            }
+        ]
+    },
+    {
+        "id": 6104,
+        "name": "Cửu Vĩ Hồ",
+        "rarity": "SSR",
+        "department": "Siêu Năng",
+        "status": {
+            "hp": 960,
+            "attack": 162,
+            "defend": 68,
+            "speed": 112,
+            "critRate": 10,
+            "critHurt": 150,
+            "hit": 0,
+            "resist": 0
+        },
+        "skills": [
+            {
+                "name": "Kỹ năng (Đang lên kế hoạch)",
+                "explain": "Mô tả kỹ năng (Đang lên kế hoạch)",
+                "energy": 0
+            },
+            {
+                "name": "Kỹ năng (Đang lên kế hoạch)",
+                "explain": "Mô tả kỹ năng (Đang lên kế hoạch)",
+                "energy": 3
+            },
+            {
+                "name": "Kỹ năng (Đang lên kế hoạch)",
+                "explain": "Mô tả kỹ năng (Đang lên kế hoạch)",
+                "energy": 0
+            }
+        ]
+    },
+    {
+        "id": 6113,
+        "name": "Hóa Thạch Dực Long",
+        "rarity": "SP",
+        "department": "Siêu Năng",
+        "status": {
+            "hp": 960,
+            "attack": 162,
+            "defend": 68,
+            "speed": 112,
+            "critRate": 10,
+            "critHurt": 150,
+            "hit": 0,
+            "resist": 0
+        },
+        "skills": [
+            {
+                "name": "Kỹ năng (Đang lên kế hoạch)",
+                "explain": "Mô tả kỹ năng (Đang lên kế hoạch)",
+                "energy": 0
+            },
+            {
+                "name": "Kỹ năng (Đang lên kế hoạch)",
+                "explain": "Mô tả kỹ năng (Đang lên kế hoạch)",
+                "energy": 3
+            },
+            {
+                "name": "Kỹ năng (Đang lên kế hoạch)",
+                "explain": "Mô tả kỹ năng (Đang lên kế hoạch)",
+                "energy": 0
+            }
+        ]
+    },
+    {
+        "id": 6115,
+        "name": "Tuyết Lạp Bỉ",
+        "rarity": "SP",
+        "department": "Tự Nhiên",
+        "status": {
+            "hp": 1323,
+            "attack": 109,
+            "defend": 68,
+            "speed": 112,
+            "critRate": 5,
+            "critHurt": 150,
+            "hit": 0,
+            "resist": 0
+        },
+        "skills": [
+            {
+                "name": "Sức Mạnh Tự Nhiên (Đánh thường)",
+                "explain": "Kích hoạt sức mạnh tự nhiên tấn công kẻ thù, gây 100% sát thương, sát thương thực gây ra sẽ hồi phục cho đồng đội có HP thấp nhất.",
+                "energy": 0
+            },
+            {
+                "name": "Bão Tố Tự Nhiên (Tuyệt kỹ)",
+                "explain": "Hồi phục lượng lớn HP cho toàn đội, hồi phục 12% HP tối đa của bản thân.",
+                "energy": 3
+            },
+            {
+                "name": "Sự Che Chở Tự Nhiên (Bị động)",
+                "explain": "Khi bắt đầu lượt, hồi sinh một đồng đội, hồi phục 20% HP tối đa của bản thân. Hồi chiêu 3 lượt.",
+                "energy": 0
+            }
+        ]
+    },
+    {
+        "id": 6131,
+        "name": "Cái Âu Ca",
+        "rarity": "SSR",
+        "department": "Thủy",
+        "status": {
+            "hp": 1035,
+            "attack": 142,
+            "defend": 68,
+            "speed": 111,
+            "critRate": 10,
+            "critHurt": 150,
+            "hit": 0,
+            "resist": 0
+        },
+        "skills": [
+            {
+                "name": "Sóng Trào (Đánh thường)",
+                "explain": "Đẩy sóng nước, gây 50% sát thương cho kẻ thù.",
+                "energy": 0
+            },
+            {
+                "name": "Nuốt Chửng (Tuyệt kỹ)",
+                "explain": "Tụ sức mạnh của nước, nuốt chửng toàn bộ kẻ thù, gây 150% sát thương.",
+                "energy": 3
+            },
+            {
+                "name": "Xuôi Dòng (Bị động)",
+                "explain": "Khi bắt đầu trận đấu, kích hoạt Thủy Vực, tăng 30% phòng thủ bản thân, duy trì 3 lượt.",
+                "energy": 0
+            }
+        ]
+    },
+    {
+        "id": 6133,
+        "name": "Thủy Quân",
+        "rarity": "SSR",
+        "department": "Thủy",
+        "status": {
+            "hp": 982,
+            "attack": 145,
+            "defend": 71,
+            "speed": 109,
+            "critRate": 8,
+            "critHurt": 150,
+            "hit": 0,
+            "resist": 0
+        },
+        "skills": [
+            {
+                "name": "Băng Kích (Đánh thường)",
+                "explain": "Hóa thân thành đạn băng tấn công kẻ thù, gây 60% sát thương, có 5% xác suất đóng băng kẻ thù 1 lượt.",
+                "energy": 0
+            },
+            {
+                "name": "Băng Phun (Tuyệt kỹ)",
+                "explain": "Phun suối băng tấn công kẻ thù 5 lần, mỗi lần gây 30% sát thương, có 8% xác suất đóng băng kẻ thù 1 lượt.",
+                "energy": 3
+            },
+            {
+                "name": "Băng Hộ (Bị động)",
+                "explain": "Cuối lượt, có 50% xác suất nhận lá chắn, hấp thụ sát thương bằng 6% HP tối đa.",
+                "energy": 0
+            }
+        ]
+    },
+    {
+        "id": 6140,
+        "name": "Liệt Không Tọa",
+        "rarity": "SP",
+        "department": "Siêu Năng",
+        "status": {
+            "hp": 960,
+            "attack": 162,
+            "defend": 68,
+            "speed": 112,
+            "critRate": 10,
+            "critHurt": 150,
+            "hit": 0,
+            "resist": 0
+        },
+        "skills": [
+            {
+                "name": "Kỹ năng (Đang lên kế hoạch)",
+                "explain": "Mô tả kỹ năng (Đang lên kế hoạch)",
+                "energy": 0
+            },
+            {
+                "name": "Kỹ năng (Đang lên kế hoạch)",
+                "explain": "Mô tả kỹ năng (Đang lên kế hoạch)",
+                "energy": 3
+            },
+            {
+                "name": "Kỹ năng (Đang lên kế hoạch)",
+                "explain": "Mô tả kỹ năng (Đang lên kế hoạch)",
+                "energy": 0
+            }
+        ]
+    }
+]
